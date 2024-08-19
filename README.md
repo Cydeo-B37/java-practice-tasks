@@ -34,11 +34,17 @@ this project is used to practice java tasks based on Cydeo SDET Java program
 
 ## Gradle setup if tasks are not displayed.
 
-1) Goto IntelliJ setting > Build,Execution > Gradle > Set Gradle JVM as JDK17 > Apple > Ok
+1) Click on Open Gradle Settings next to Error message:
 
-![image](https://github.com/user-attachments/assets/981440cc-17f8-4a38-96f9-9453b9284a27)
+![Screenshot 2024-08-18 at 8 18 03 PM](https://github.com/user-attachments/assets/3486b753-9018-4af8-ae13-713360d8a5e4)
 
-2) Perform Gradle update:
+
+2) Goto IntelliJ setting > Build,Execution > Gradle > Set Gradle JVM as JDK17 > Apply > Ok
+
+![Screenshot 2024-08-18 at 8 19 43 PM](https://github.com/user-attachments/assets/c0340abd-c276-419e-bb49-2e9266b7b8d5)
+
+
+3) Perform Gradle update:
 
 ![update.png](common/src/main/resources/images/update.png)
 
